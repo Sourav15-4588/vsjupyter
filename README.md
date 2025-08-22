@@ -8,17 +8,9 @@ AI Answers: Uses language model to generate expert responses
 Conversation Memory: Remembers what you asked for follow-up questions
 
 
-📁 Project Structure
-financial-chatbot/
-├── saved_models/
-│   ├── financial_expert/          # Saved LLM model
-│   └── chatbot_function.py           # Chatbot class definition
-├── financial_policy_chromadb/     # Vector database (auto-created)
-├── Policy_file.pdf                # Your financial document
-├── chat.ipynb                     # Data extracting and vector DB creating notebook
-├── model.ipynb                    # Preparing model
-├── bot.ipynb                      # Conversation memory and the interface
-└── README.md                      # This file
+
+<img width="692" height="328" alt="image" src="https://github.com/user-attachments/assets/fe6cf28d-61e6-4ebd-a420-705d89a26e4c" />
+
 
 
 Phase 1: Document Processing ✅
